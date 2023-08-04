@@ -1,2 +1,2 @@
 # terriverse
-version controlled comprehensive list of kelon / terri joe's alts
+submit a pull request to update the list.
